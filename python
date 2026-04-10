@@ -1,6 +1,6 @@
 email = input("Enter email text: ").lower()
 
-if "meeting" in email: 
+if "meeting" in email:
     reply = "Thank you for the meeting update. I will attend."
 elif "interview" in email:
     reply = "Thank you for the opportunity. I confirm my availability."
